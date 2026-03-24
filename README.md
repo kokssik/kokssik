@@ -7,5 +7,5 @@
 </p>
 
 <p align="center">
-    <img width="40%" src=https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=kokssik&theme=nord&exclude_repo=dwm,DiscordTheme,st&langs_count=50 alt="kokssik's Top Langs">
+    [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 </p>
